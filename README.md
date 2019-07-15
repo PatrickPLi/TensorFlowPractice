@@ -1,2 +1,2 @@
 # TensorFlowPractice
-Exercises and assignments for the "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" course on Coursera by deeplearning.ai
+Exercises and assignments for the "TensorFlow in Practice" course on Coursera by deeplearning.ai
